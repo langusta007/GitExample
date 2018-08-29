@@ -18,5 +18,10 @@ public class GitMaths {
 		return a * b;
 		
 	}
+	
+	public void test()
+	{
+		
+	}
 
 }
