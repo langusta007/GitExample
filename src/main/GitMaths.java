@@ -2,7 +2,7 @@ package main;
 
 public class GitMaths {
 	
-	//subtracts b from a
+	//subtracts b from a test
 	public int subtract(int a, int b)
 	{
 		return a - b;
