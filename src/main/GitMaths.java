@@ -12,5 +12,11 @@ public class GitMaths {
 		int total = 2+3;
 		System.out.println("The total is: "+ total);
 	}
+	
+	public int multiply(int a, int b)
+	{
+		return a * b;
+		
+	}
 
 }
